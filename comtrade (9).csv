@@ -1,0 +1,486 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H5,2017,2017,2017,2,0,2,Export,276,Germany,DEU,251,France,FRA,,,,,,,,01,Animals; live,1,No Quantity,0,,,,0,,12359084,,,0
+H5,2017,2017,2017,2,0,2,Export,276,Germany,DEU,251,France,FRA,,,,,,,,02,Meat and edible meat offal,1,No Quantity,0,,,,0,,586901895,,,0
+H5,2017,2017,2017,2,0,2,Export,276,Germany,DEU,251,France,FRA,,,,,,,,03,"Fish and crustaceans, molluscs and other aquatic invertebrates",1,No Quantity,0,,,,0,,195255920,,,0
+H5,2017,2017,2017,2,0,2,Export,276,Germany,DEU,251,France,FRA,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",1,No Quantity,0,,,,0,,687233680,,,0
+H5,2017,2017,2017,2,0,2,Export,276,Germany,DEU,251,France,FRA,,,,,,,,05,Animal originated products; not elsewhere specified or included,1,No Quantity,0,,,,0,,114166068,,,4
+H5,2017,2017,2017,2,0,2,Export,276,Germany,DEU,251,France,FRA,,,,,,,,06,"Trees and other plants, live; bulbs, roots and the like; cut flowers and ornamental foliage",1,No Quantity,0,,,,0,,100589227,,,0
+H5,2017,2017,2017,2,0,2,Export,276,Germany,DEU,251,France,FRA,,,,,,,,07,Vegetables and certain roots and tubers; edible,1,No Quantity,0,,,,0,,80585854,,,0
+H5,2017,2017,2017,2,0,2,Export,276,Germany,DEU,251,France,FRA,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",1,No Quantity,0,,,,0,,186163355,,,0
+H5,2017,2017,2017,2,0,2,Export,276,Germany,DEU,251,France,FRA,,,,,,,,09,"Coffee, tea, mate and spices",1,No Quantity,0,,,,0,,431044018,,,0
+H5,2017,2017,2017,2,0,2,Export,276,Germany,DEU,251,France,FRA,,,,,,,,10,Cereals,1,No Quantity,0,,,,0,,138586674,,,0
+H5,2017,2017,2017,2,0,2,Export,276,Germany,DEU,251,France,FRA,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",1,No Quantity,0,,,,0,,186612650,,,0
+H5,2017,2017,2017,2,0,2,Export,276,Germany,DEU,251,France,FRA,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",1,No Quantity,0,,,,0,,159026375,,,4
+H5,2017,2017,2017,2,0,2,Export,276,Germany,DEU,251,France,FRA,,,,,,,,13,"Lac; gums, resins and other vegetable saps and extracts",1,No Quantity,0,,,,0,,35838681,,,0
+H5,2017,2017,2017,2,0,2,Export,276,Germany,DEU,251,France,FRA,,,,,,,,14,Vegetable plaiting materials; vegetable products not elsewhere specified or included,1,No Quantity,0,,,,0,,800275,,,0
+H5,2017,2017,2017,2,0,2,Export,276,Germany,DEU,251,France,FRA,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,1,No Quantity,0,,,,0,,189585233,,,4
+H5,2017,2017,2017,2,0,2,Export,276,Germany,DEU,251,France,FRA,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",1,No Quantity,0,,,,0,,481607776,,,0
+H5,2017,2017,2017,2,0,2,Export,276,Germany,DEU,251,France,FRA,,,,,,,,17,Sugars and sugar confectionery,1,No Quantity,0,,,,0,,145375034,,,0
+H5,2017,2017,2017,2,0,2,Export,276,Germany,DEU,251,France,FRA,,,,,,,,18,Cocoa and cocoa preparations,1,No Quantity,0,,,,0,,694531630,,,0
+H5,2017,2017,2017,2,0,2,Export,276,Germany,DEU,251,France,FRA,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",1,No Quantity,0,,,,0,,697009624,,,0
+H5,2017,2017,2017,2,0,2,Export,276,Germany,DEU,251,France,FRA,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",1,No Quantity,0,,,,0,,513418782,,,0
+H5,2017,2017,2017,2,0,2,Export,276,Germany,DEU,251,France,FRA,,,,,,,,21,Miscellaneous edible preparations,1,No Quantity,0,,,,0,,587018615,,,0
+H5,2017,2017,2017,2,0,2,Export,276,Germany,DEU,251,France,FRA,,,,,,,,22,"Beverages, spirits and vinegar",1,No Quantity,0,,,,0,,436535696,,,0
+H5,2017,2017,2017,2,0,2,Export,276,Germany,DEU,251,France,FRA,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",1,No Quantity,0,,,,0,,323581412,,,0
+H5,2017,2017,2017,2,0,2,Export,276,Germany,DEU,251,France,FRA,,,,,,,,24,Tobacco and manufactured tobacco substitutes,1,No Quantity,0,,,,0,,248880134,,,0
+H5,2017,2017,2017,2,0,2,Export,276,Germany,DEU,251,France,FRA,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",1,No Quantity,0,,,,0,,182545234,,,0
+H5,2017,2017,2017,2,0,2,Export,276,Germany,DEU,251,France,FRA,,,,,,,,26,"Ores, slag and ash",1,No Quantity,0,,,,0,,99470860,,,0
+H5,2017,2017,2017,2,0,2,Export,276,Germany,DEU,251,France,FRA,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,1122687008,,,4
+H5,2017,2017,2017,2,0,2,Export,276,Germany,DEU,251,France,FRA,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",1,No Quantity,0,,,,0,,888307934,,,4
+H5,2017,2017,2017,2,0,2,Export,276,Germany,DEU,251,France,FRA,,,,,,,,29,Organic chemicals,1,No Quantity,0,,,,0,,2171476751,,,4
+H5,2017,2017,2017,2,0,2,Export,276,Germany,DEU,251,France,FRA,,,,,,,,30,Pharmaceutical products,1,No Quantity,0,,,,0,,4095495155,,,4
+H5,2017,2017,2017,2,0,2,Export,276,Germany,DEU,251,France,FRA,,,,,,,,31,Fertilizers,1,No Quantity,0,,,,0,,66732207,,,0
+H5,2017,2017,2017,2,0,2,Export,276,Germany,DEU,251,France,FRA,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",1,No Quantity,0,,,,0,,1117478013,,,0
+H5,2017,2017,2017,2,0,2,Export,276,Germany,DEU,251,France,FRA,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",1,No Quantity,0,,,,0,,834880519,,,0
+H5,2017,2017,2017,2,0,2,Export,276,Germany,DEU,251,France,FRA,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, dental waxes and dental preparations with a basis of plaster",1,No Quantity,0,,,,0,,743478813,,,0
+H5,2017,2017,2017,2,0,2,Export,276,Germany,DEU,251,France,FRA,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,1,No Quantity,0,,,,0,,312619049,,,0
+H5,2017,2017,2017,2,0,2,Export,276,Germany,DEU,251,France,FRA,,,,,,,,36,Explosives; pyrotechnic products; matches; pyrophoric alloys; certain combustible preparations,1,No Quantity,0,,,,0,,17180273,,,0
+H5,2017,2017,2017,2,0,2,Export,276,Germany,DEU,251,France,FRA,,,,,,,,37,Photographic or cinematographic goods,1,No Quantity,0,,,,0,,128063598,,,0
+H5,2017,2017,2017,2,0,2,Export,276,Germany,DEU,251,France,FRA,,,,,,,,38,Chemical products n.e.c.,1,No Quantity,0,,,,0,,2126609323,,,0
+H5,2017,2017,2017,2,0,2,Export,276,Germany,DEU,251,France,FRA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,5556909351,,,0
+H5,2017,2017,2017,2,0,2,Export,276,Germany,DEU,251,France,FRA,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,1725055143,,,0
+H5,2017,2017,2017,2,0,2,Export,276,Germany,DEU,251,France,FRA,,,,,,,,41,Raw hides and skins (other than furskins) and leather,1,No Quantity,0,,,,0,,45810491,,,0
+H5,2017,2017,2017,2,0,2,Export,276,Germany,DEU,251,France,FRA,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",1,No Quantity,0,,,,0,,242778486,,,0
+H5,2017,2017,2017,2,0,2,Export,276,Germany,DEU,251,France,FRA,,,,,,,,43,Furskins and artificial fur; manufactures thereof,1,No Quantity,0,,,,0,,6851841,,,0
+H5,2017,2017,2017,2,0,2,Export,276,Germany,DEU,251,France,FRA,,,,,,,,44,Wood and articles of wood; wood charcoal,1,No Quantity,0,,,,0,,879681604,,,0
+H5,2017,2017,2017,2,0,2,Export,276,Germany,DEU,251,France,FRA,,,,,,,,45,Cork and articles of cork,1,No Quantity,0,,,,0,,4190650,,,0
+H5,2017,2017,2017,2,0,2,Export,276,Germany,DEU,251,France,FRA,,,,,,,,46,"Manufactures of straw, esparto or other plaiting materials; basketware and wickerwork",1,No Quantity,0,,,,0,,4997279,,,0
+H5,2017,2017,2017,2,0,2,Export,276,Germany,DEU,251,France,FRA,,,,,,,,47,Pulp of wood or other fibrous cellulosic material; recovered (waste and scrap) paper or paperboard,1,No Quantity,0,,,,0,,136300667,,,0
+H5,2017,2017,2017,2,0,2,Export,276,Germany,DEU,251,France,FRA,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",1,No Quantity,0,,,,0,,2225935510,,,0
+H5,2017,2017,2017,2,0,2,Export,276,Germany,DEU,251,France,FRA,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",1,No Quantity,0,,,,0,,467724326,,,0
+H5,2017,2017,2017,2,0,2,Export,276,Germany,DEU,251,France,FRA,,,,,,,,50,Silk,1,No Quantity,0,,,,0,,2548410,,,4
+H5,2017,2017,2017,2,0,2,Export,276,Germany,DEU,251,France,FRA,,,,,,,,51,"Wool, fine or coarse animal hair; horsehair yarn and woven fabric",1,No Quantity,0,,,,0,,10313334,,,4
+H5,2017,2017,2017,2,0,2,Export,276,Germany,DEU,251,France,FRA,,,,,,,,52,Cotton,1,No Quantity,0,,,,0,,53892559,,,0
+H5,2017,2017,2017,2,0,2,Export,276,Germany,DEU,251,France,FRA,,,,,,,,53,Vegetable textile fibres; paper yarn and woven fabrics of paper yarn,1,No Quantity,0,,,,0,,3214299,,,0
+H5,2017,2017,2017,2,0,2,Export,276,Germany,DEU,251,France,FRA,,,,,,,,54,Man-made filaments; strip and the like of man-made textile materials,1,No Quantity,0,,,,0,,116271433,,,0
+H5,2017,2017,2017,2,0,2,Export,276,Germany,DEU,251,France,FRA,,,,,,,,55,Man-made staple fibres,1,No Quantity,0,,,,0,,58219414,,,0
+H5,2017,2017,2017,2,0,2,Export,276,Germany,DEU,251,France,FRA,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",1,No Quantity,0,,,,0,,188218356,,,0
+H5,2017,2017,2017,2,0,2,Export,276,Germany,DEU,251,France,FRA,,,,,,,,57,Carpets and other textile floor coverings,1,No Quantity,0,,,,0,,44989436,,,0
+H5,2017,2017,2017,2,0,2,Export,276,Germany,DEU,251,France,FRA,,,,,,,,58,"Fabrics; special woven fabrics, tufted textile fabrics, lace, tapestries, trimmings, embroidery",1,No Quantity,0,,,,0,,32500913,,,0
+H5,2017,2017,2017,2,0,2,Export,276,Germany,DEU,251,France,FRA,,,,,,,,59,"Textile fabrics; impregnated, coated, covered or laminated; textile articles of a kind suitable for industrial use",1,No Quantity,0,,,,0,,124423295,,,0
+H5,2017,2017,2017,2,0,2,Export,276,Germany,DEU,251,France,FRA,,,,,,,,60,Fabrics; knitted or crocheted,1,No Quantity,0,,,,0,,37649131,,,0
+H5,2017,2017,2017,2,0,2,Export,276,Germany,DEU,251,France,FRA,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,1,No Quantity,0,,,,0,,1064822502,,,0
+H5,2017,2017,2017,2,0,2,Export,276,Germany,DEU,251,France,FRA,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,1,No Quantity,0,,,,0,,1161145716,,,0
+H5,2017,2017,2017,2,0,2,Export,276,Germany,DEU,251,France,FRA,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",1,No Quantity,0,,,,0,,228178806,,,0
+H5,2017,2017,2017,2,0,2,Export,276,Germany,DEU,251,France,FRA,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,1,No Quantity,0,,,,0,,991889858,,,0
+H5,2017,2017,2017,2,0,2,Export,276,Germany,DEU,251,France,FRA,,,,,,,,65,Headgear and parts thereof,1,No Quantity,0,,,,0,,53555463,,,0
+H5,2017,2017,2017,2,0,2,Export,276,Germany,DEU,251,France,FRA,,,,,,,,66,"Umbrellas, sun umbrellas, walking-sticks, seat sticks, whips, riding crops; and parts thereof",1,No Quantity,0,,,,0,,15140958,,,0
+H5,2017,2017,2017,2,0,2,Export,276,Germany,DEU,251,France,FRA,,,,,,,,67,"Feathers and down, prepared; and articles made of feather or of down; artificial flowers; articles of human hair",1,No Quantity,0,,,,0,,15966241,,,0
+H5,2017,2017,2017,2,0,2,Export,276,Germany,DEU,251,France,FRA,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",1,No Quantity,0,,,,0,,424015965,,,0
+H5,2017,2017,2017,2,0,2,Export,276,Germany,DEU,251,France,FRA,,,,,,,,69,Ceramic products,1,No Quantity,0,,,,0,,216194424,,,0
+H5,2017,2017,2017,2,0,2,Export,276,Germany,DEU,251,France,FRA,,,,,,,,70,Glass and glassware,1,No Quantity,0,,,,0,,729645397,,,0
+H5,2017,2017,2017,2,0,2,Export,276,Germany,DEU,251,France,FRA,,,,,,,,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",1,No Quantity,0,,,,0,,1074721875,,,0
+H5,2017,2017,2017,2,0,2,Export,276,Germany,DEU,251,France,FRA,,,,,,,,72,Iron and steel,1,No Quantity,0,,,,0,,2637533310,,,0
+H5,2017,2017,2017,2,0,2,Export,276,Germany,DEU,251,France,FRA,,,,,,,,73,Iron or steel articles,1,No Quantity,0,,,,0,,2674399806,,,0
+H5,2017,2017,2017,2,0,2,Export,276,Germany,DEU,251,France,FRA,,,,,,,,74,Copper and articles thereof,1,No Quantity,0,,,,0,,921917083,,,0
+H5,2017,2017,2017,2,0,2,Export,276,Germany,DEU,251,France,FRA,,,,,,,,75,Nickel and articles thereof,1,No Quantity,0,,,,0,,72403135,,,0
+H5,2017,2017,2017,2,0,2,Export,276,Germany,DEU,251,France,FRA,,,,,,,,76,Aluminium and articles thereof,1,No Quantity,0,,,,0,,1499938186,,,0
+H5,2017,2017,2017,2,0,2,Export,276,Germany,DEU,251,France,FRA,,,,,,,,78,Lead and articles thereof,1,No Quantity,0,,,,0,,29901671,,,0
+H5,2017,2017,2017,2,0,2,Export,276,Germany,DEU,251,France,FRA,,,,,,,,79,Zinc and articles thereof,1,No Quantity,0,,,,0,,72612816,,,0
+H5,2017,2017,2017,2,0,2,Export,276,Germany,DEU,251,France,FRA,,,,,,,,80,Tin; articles thereof,1,No Quantity,0,,,,0,,13744487,,,0
+H5,2017,2017,2017,2,0,2,Export,276,Germany,DEU,251,France,FRA,,,,,,,,81,"Metals; n.e.c., cermets and articles thereof",1,No Quantity,0,,,,0,,204616439,,,4
+H5,2017,2017,2017,2,0,2,Export,276,Germany,DEU,251,France,FRA,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",1,No Quantity,0,,,,0,,638797372,,,4
+H5,2017,2017,2017,2,0,2,Export,276,Germany,DEU,251,France,FRA,,,,,,,,83,Metal; miscellaneous products of base metal,1,No Quantity,0,,,,0,,698301704,,,0
+H5,2017,2017,2017,2,0,2,Export,276,Germany,DEU,251,France,FRA,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",1,No Quantity,0,,,,0,,17347568589,,,0
+H5,2017,2017,2017,2,0,2,Export,276,Germany,DEU,251,France,FRA,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",1,No Quantity,0,,,,0,,9512334826,,,0
+H5,2017,2017,2017,2,0,2,Export,276,Germany,DEU,251,France,FRA,,,,,,,,86,"Railway, tramway locomotives, rolling-stock and parts thereof; railway or tramway track fixtures and fittings and parts thereof; mechanical (including electro-mechanical) traffic signalling equipment of all kinds",1,No Quantity,0,,,,0,,171210845,,,0
+H5,2017,2017,2017,2,0,2,Export,276,Germany,DEU,251,France,FRA,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",1,No Quantity,0,,,,0,,18397145673,,,0
+H5,2017,2017,2017,2,0,2,Export,276,Germany,DEU,251,France,FRA,,,,,,,,88,"Aircraft, spacecraft and parts thereof",1,No Quantity,0,,,,0,,14212589075,,,0
+H5,2017,2017,2017,2,0,2,Export,276,Germany,DEU,251,France,FRA,,,,,,,,89,"Ships, boats and floating structures",1,No Quantity,0,,,,0,,45829327,,,0
+H5,2017,2017,2017,2,0,2,Export,276,Germany,DEU,251,France,FRA,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",1,No Quantity,0,,,,0,,4460303040,,,4
+H5,2017,2017,2017,2,0,2,Export,276,Germany,DEU,251,France,FRA,,,,,,,,91,Clocks and watches and parts thereof,1,No Quantity,0,,,,0,,342483991,,,4
+H5,2017,2017,2017,2,0,2,Export,276,Germany,DEU,251,France,FRA,,,,,,,,92,Musical instruments; parts and accessories of such articles,1,No Quantity,0,,,,0,,62970669,,,0
+H5,2017,2017,2017,2,0,2,Export,276,Germany,DEU,251,France,FRA,,,,,,,,93,Arms and ammunition; parts and accessories thereof,1,No Quantity,0,,,,0,,50590983,,,0
+H5,2017,2017,2017,2,0,2,Export,276,Germany,DEU,251,France,FRA,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.c.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",1,No Quantity,0,,,,0,,2086257023,,,0
+H5,2017,2017,2017,2,0,2,Export,276,Germany,DEU,251,France,FRA,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",1,No Quantity,0,,,,0,,540688014,,,0
+H5,2017,2017,2017,2,0,2,Export,276,Germany,DEU,251,France,FRA,,,,,,,,96,Miscellaneous manufactured articles,1,No Quantity,0,,,,0,,577866018,,,4
+H5,2017,2017,2017,2,0,2,Export,276,Germany,DEU,251,France,FRA,,,,,,,,97,Works of art; collectors' pieces and antiques,1,No Quantity,0,,,,0,,18138557,,,0
+H5,2017,2017,2017,2,0,2,Export,276,Germany,DEU,251,France,FRA,,,,,,,,99,Commodities not specified according to kind,1,No Quantity,0,,,,0,,2558443816,,,0
+H5,2018,2018,2018,2,0,2,Export,276,Germany,DEU,251,France,FRA,,,,,,,,01,Animals; live,1,No Quantity,0,,,,0,,14589836,,,4
+H5,2018,2018,2018,2,0,2,Export,276,Germany,DEU,251,France,FRA,,,,,,,,02,Meat and edible meat offal,1,No Quantity,0,,,,0,,569339374,,,4
+H5,2018,2018,2018,2,0,2,Export,276,Germany,DEU,251,France,FRA,,,,,,,,03,"Fish and crustaceans, molluscs and other aquatic invertebrates",1,No Quantity,0,,,,0,,190641279,,,4
+H5,2018,2018,2018,2,0,2,Export,276,Germany,DEU,251,France,FRA,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",1,No Quantity,0,,,,0,,746678760,,,4
+H5,2018,2018,2018,2,0,2,Export,276,Germany,DEU,251,France,FRA,,,,,,,,05,Animal originated products; not elsewhere specified or included,1,No Quantity,0,,,,0,,117938267,,,4
+H5,2018,2018,2018,2,0,2,Export,276,Germany,DEU,251,France,FRA,,,,,,,,06,"Trees and other plants, live; bulbs, roots and the like; cut flowers and ornamental foliage",1,No Quantity,0,,,,0,,106419824,,,4
+H5,2018,2018,2018,2,0,2,Export,276,Germany,DEU,251,France,FRA,,,,,,,,07,Vegetables and certain roots and tubers; edible,1,No Quantity,0,,,,0,,79817997,,,4
+H5,2018,2018,2018,2,0,2,Export,276,Germany,DEU,251,France,FRA,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",1,No Quantity,0,,,,0,,194973922,,,4
+H5,2018,2018,2018,2,0,2,Export,276,Germany,DEU,251,France,FRA,,,,,,,,09,"Coffee, tea, mate and spices",1,No Quantity,0,,,,0,,446526107,,,4
+H5,2018,2018,2018,2,0,2,Export,276,Germany,DEU,251,France,FRA,,,,,,,,10,Cereals,1,No Quantity,0,,,,0,,100254631,,,4
+H5,2018,2018,2018,2,0,2,Export,276,Germany,DEU,251,France,FRA,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",1,No Quantity,0,,,,0,,205898317,,,4
+H5,2018,2018,2018,2,0,2,Export,276,Germany,DEU,251,France,FRA,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",1,No Quantity,0,,,,0,,189940809,,,4
+H5,2018,2018,2018,2,0,2,Export,276,Germany,DEU,251,France,FRA,,,,,,,,13,"Lac; gums, resins and other vegetable saps and extracts",1,No Quantity,0,,,,0,,50229207,,,4
+H5,2018,2018,2018,2,0,2,Export,276,Germany,DEU,251,France,FRA,,,,,,,,14,Vegetable plaiting materials; vegetable products not elsewhere specified or included,1,No Quantity,0,,,,0,,1033724,,,0
+H5,2018,2018,2018,2,0,2,Export,276,Germany,DEU,251,France,FRA,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,1,No Quantity,0,,,,0,,184582445,,,4
+H5,2018,2018,2018,2,0,2,Export,276,Germany,DEU,251,France,FRA,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",1,No Quantity,0,,,,0,,520389621,,,4
+H5,2018,2018,2018,2,0,2,Export,276,Germany,DEU,251,France,FRA,,,,,,,,17,Sugars and sugar confectionery,1,No Quantity,0,,,,0,,158697412,,,4
+H5,2018,2018,2018,2,0,2,Export,276,Germany,DEU,251,France,FRA,,,,,,,,18,Cocoa and cocoa preparations,1,No Quantity,0,,,,0,,746949381,,,4
+H5,2018,2018,2018,2,0,2,Export,276,Germany,DEU,251,France,FRA,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",1,No Quantity,0,,,,0,,739626566,,,4
+H5,2018,2018,2018,2,0,2,Export,276,Germany,DEU,251,France,FRA,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",1,No Quantity,0,,,,0,,577820236,,,4
+H5,2018,2018,2018,2,0,2,Export,276,Germany,DEU,251,France,FRA,,,,,,,,21,Miscellaneous edible preparations,1,No Quantity,0,,,,0,,637869848,,,4
+H5,2018,2018,2018,2,0,2,Export,276,Germany,DEU,251,France,FRA,,,,,,,,22,"Beverages, spirits and vinegar",1,No Quantity,0,,,,0,,491755645,,,4
+H5,2018,2018,2018,2,0,2,Export,276,Germany,DEU,251,France,FRA,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",1,No Quantity,0,,,,0,,332445783,,,0
+H5,2018,2018,2018,2,0,2,Export,276,Germany,DEU,251,France,FRA,,,,,,,,24,Tobacco and manufactured tobacco substitutes,1,No Quantity,0,,,,0,,458499234,,,4
+H5,2018,2018,2018,2,0,2,Export,276,Germany,DEU,251,France,FRA,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",1,No Quantity,0,,,,0,,199185093,,,4
+H5,2018,2018,2018,2,0,2,Export,276,Germany,DEU,251,France,FRA,,,,,,,,26,"Ores, slag and ash",1,No Quantity,0,,,,0,,115447535,,,0
+H5,2018,2018,2018,2,0,2,Export,276,Germany,DEU,251,France,FRA,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,1190082818,,,4
+H5,2018,2018,2018,2,0,2,Export,276,Germany,DEU,251,France,FRA,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",1,No Quantity,0,,,,0,,929457030,,,4
+H5,2018,2018,2018,2,0,2,Export,276,Germany,DEU,251,France,FRA,,,,,,,,29,Organic chemicals,1,No Quantity,0,,,,0,,2394302910,,,4
+H5,2018,2018,2018,2,0,2,Export,276,Germany,DEU,251,France,FRA,,,,,,,,30,Pharmaceutical products,1,No Quantity,0,,,,0,,4754290860,,,4
+H5,2018,2018,2018,2,0,2,Export,276,Germany,DEU,251,France,FRA,,,,,,,,31,Fertilizers,1,No Quantity,0,,,,0,,156580307,,,4
+H5,2018,2018,2018,2,0,2,Export,276,Germany,DEU,251,France,FRA,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",1,No Quantity,0,,,,0,,1138475345,,,4
+H5,2018,2018,2018,2,0,2,Export,276,Germany,DEU,251,France,FRA,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",1,No Quantity,0,,,,0,,904435835,,,4
+H5,2018,2018,2018,2,0,2,Export,276,Germany,DEU,251,France,FRA,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, dental waxes and dental preparations with a basis of plaster",1,No Quantity,0,,,,0,,776129562,,,4
+H5,2018,2018,2018,2,0,2,Export,276,Germany,DEU,251,France,FRA,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,1,No Quantity,0,,,,0,,326953451,,,4
+H5,2018,2018,2018,2,0,2,Export,276,Germany,DEU,251,France,FRA,,,,,,,,36,Explosives; pyrotechnic products; matches; pyrophoric alloys; certain combustible preparations,1,No Quantity,0,,,,0,,12971371,,,4
+H5,2018,2018,2018,2,0,2,Export,276,Germany,DEU,251,France,FRA,,,,,,,,37,Photographic or cinematographic goods,1,No Quantity,0,,,,0,,126478346,,,4
+H5,2018,2018,2018,2,0,2,Export,276,Germany,DEU,251,France,FRA,,,,,,,,38,Chemical products n.e.c.,1,No Quantity,0,,,,0,,2241752811,,,4
+H5,2018,2018,2018,2,0,2,Export,276,Germany,DEU,251,France,FRA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,5680037302,,,4
+H5,2018,2018,2018,2,0,2,Export,276,Germany,DEU,251,France,FRA,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,1826265007,,,4
+H5,2018,2018,2018,2,0,2,Export,276,Germany,DEU,251,France,FRA,,,,,,,,41,Raw hides and skins (other than furskins) and leather,1,No Quantity,0,,,,0,,46197940,,,4
+H5,2018,2018,2018,2,0,2,Export,276,Germany,DEU,251,France,FRA,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",1,No Quantity,0,,,,0,,280237429,,,4
+H5,2018,2018,2018,2,0,2,Export,276,Germany,DEU,251,France,FRA,,,,,,,,43,Furskins and artificial fur; manufactures thereof,1,No Quantity,0,,,,0,,7308039,,,4
+H5,2018,2018,2018,2,0,2,Export,276,Germany,DEU,251,France,FRA,,,,,,,,44,Wood and articles of wood; wood charcoal,1,No Quantity,0,,,,0,,978068894,,,4
+H5,2018,2018,2018,2,0,2,Export,276,Germany,DEU,251,France,FRA,,,,,,,,45,Cork and articles of cork,1,No Quantity,0,,,,0,,4655200,,,4
+H5,2018,2018,2018,2,0,2,Export,276,Germany,DEU,251,France,FRA,,,,,,,,46,"Manufactures of straw, esparto or other plaiting materials; basketware and wickerwork",1,No Quantity,0,,,,0,,5382696,,,4
+H5,2018,2018,2018,2,0,2,Export,276,Germany,DEU,251,France,FRA,,,,,,,,47,Pulp of wood or other fibrous cellulosic material; recovered (waste and scrap) paper or paperboard,1,No Quantity,0,,,,0,,131789625,,,0
+H5,2018,2018,2018,2,0,2,Export,276,Germany,DEU,251,France,FRA,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",1,No Quantity,0,,,,0,,2459970514,,,4
+H5,2018,2018,2018,2,0,2,Export,276,Germany,DEU,251,France,FRA,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",1,No Quantity,0,,,,0,,545966618,,,4
+H5,2018,2018,2018,2,0,2,Export,276,Germany,DEU,251,France,FRA,,,,,,,,50,Silk,1,No Quantity,0,,,,0,,1000304,,,4
+H5,2018,2018,2018,2,0,2,Export,276,Germany,DEU,251,France,FRA,,,,,,,,51,"Wool, fine or coarse animal hair; horsehair yarn and woven fabric",1,No Quantity,0,,,,0,,9798714,,,4
+H5,2018,2018,2018,2,0,2,Export,276,Germany,DEU,251,France,FRA,,,,,,,,52,Cotton,1,No Quantity,0,,,,0,,50905832,,,4
+H5,2018,2018,2018,2,0,2,Export,276,Germany,DEU,251,France,FRA,,,,,,,,53,Vegetable textile fibres; paper yarn and woven fabrics of paper yarn,1,No Quantity,0,,,,0,,3336177,,,4
+H5,2018,2018,2018,2,0,2,Export,276,Germany,DEU,251,France,FRA,,,,,,,,54,Man-made filaments; strip and the like of man-made textile materials,1,No Quantity,0,,,,0,,105288595,,,4
+H5,2018,2018,2018,2,0,2,Export,276,Germany,DEU,251,France,FRA,,,,,,,,55,Man-made staple fibres,1,No Quantity,0,,,,0,,65341842,,,4
+H5,2018,2018,2018,2,0,2,Export,276,Germany,DEU,251,France,FRA,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",1,No Quantity,0,,,,0,,192386836,,,4
+H5,2018,2018,2018,2,0,2,Export,276,Germany,DEU,251,France,FRA,,,,,,,,57,Carpets and other textile floor coverings,1,No Quantity,0,,,,0,,41209364,,,0
+H5,2018,2018,2018,2,0,2,Export,276,Germany,DEU,251,France,FRA,,,,,,,,58,"Fabrics; special woven fabrics, tufted textile fabrics, lace, tapestries, trimmings, embroidery",1,No Quantity,0,,,,0,,33376877,,,4
+H5,2018,2018,2018,2,0,2,Export,276,Germany,DEU,251,France,FRA,,,,,,,,59,"Textile fabrics; impregnated, coated, covered or laminated; textile articles of a kind suitable for industrial use",1,No Quantity,0,,,,0,,133073744,,,4
+H5,2018,2018,2018,2,0,2,Export,276,Germany,DEU,251,France,FRA,,,,,,,,60,Fabrics; knitted or crocheted,1,No Quantity,0,,,,0,,40248753,,,4
+H5,2018,2018,2018,2,0,2,Export,276,Germany,DEU,251,France,FRA,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,1,No Quantity,0,,,,0,,1167485487,,,4
+H5,2018,2018,2018,2,0,2,Export,276,Germany,DEU,251,France,FRA,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,1,No Quantity,0,,,,0,,1244298045,,,4
+H5,2018,2018,2018,2,0,2,Export,276,Germany,DEU,251,France,FRA,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",1,No Quantity,0,,,,0,,287533509,,,4
+H5,2018,2018,2018,2,0,2,Export,276,Germany,DEU,251,France,FRA,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,1,No Quantity,0,,,,0,,1009707840,,,4
+H5,2018,2018,2018,2,0,2,Export,276,Germany,DEU,251,France,FRA,,,,,,,,65,Headgear and parts thereof,1,No Quantity,0,,,,0,,56524421,,,4
+H5,2018,2018,2018,2,0,2,Export,276,Germany,DEU,251,France,FRA,,,,,,,,66,"Umbrellas, sun umbrellas, walking-sticks, seat sticks, whips, riding crops; and parts thereof",1,No Quantity,0,,,,0,,21337079,,,4
+H5,2018,2018,2018,2,0,2,Export,276,Germany,DEU,251,France,FRA,,,,,,,,67,"Feathers and down, prepared; and articles made of feather or of down; artificial flowers; articles of human hair",1,No Quantity,0,,,,0,,19300547,,,4
+H5,2018,2018,2018,2,0,2,Export,276,Germany,DEU,251,France,FRA,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",1,No Quantity,0,,,,0,,493378255,,,4
+H5,2018,2018,2018,2,0,2,Export,276,Germany,DEU,251,France,FRA,,,,,,,,69,Ceramic products,1,No Quantity,0,,,,0,,231961463,,,4
+H5,2018,2018,2018,2,0,2,Export,276,Germany,DEU,251,France,FRA,,,,,,,,70,Glass and glassware,1,No Quantity,0,,,,0,,849840108,,,4
+H5,2018,2018,2018,2,0,2,Export,276,Germany,DEU,251,France,FRA,,,,,,,,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",1,No Quantity,0,,,,0,,1337565216,,,4
+H5,2018,2018,2018,2,0,2,Export,276,Germany,DEU,251,France,FRA,,,,,,,,72,Iron and steel,1,No Quantity,0,,,,0,,2948973229,,,4
+H5,2018,2018,2018,2,0,2,Export,276,Germany,DEU,251,France,FRA,,,,,,,,73,Iron or steel articles,1,No Quantity,0,,,,0,,2937055180,,,4
+H5,2018,2018,2018,2,0,2,Export,276,Germany,DEU,251,France,FRA,,,,,,,,74,Copper and articles thereof,1,No Quantity,0,,,,0,,1062532594,,,4
+H5,2018,2018,2018,2,0,2,Export,276,Germany,DEU,251,France,FRA,,,,,,,,75,Nickel and articles thereof,1,No Quantity,0,,,,0,,80998390,,,4
+H5,2018,2018,2018,2,0,2,Export,276,Germany,DEU,251,France,FRA,,,,,,,,76,Aluminium and articles thereof,1,No Quantity,0,,,,0,,1622053916,,,4
+H5,2018,2018,2018,2,0,2,Export,276,Germany,DEU,251,France,FRA,,,,,,,,78,Lead and articles thereof,1,No Quantity,0,,,,0,,31033355,,,4
+H5,2018,2018,2018,2,0,2,Export,276,Germany,DEU,251,France,FRA,,,,,,,,79,Zinc and articles thereof,1,No Quantity,0,,,,0,,50464020,,,0
+H5,2018,2018,2018,2,0,2,Export,276,Germany,DEU,251,France,FRA,,,,,,,,80,Tin; articles thereof,1,No Quantity,0,,,,0,,11770883,,,4
+H5,2018,2018,2018,2,0,2,Export,276,Germany,DEU,251,France,FRA,,,,,,,,81,"Metals; n.e.c., cermets and articles thereof",1,No Quantity,0,,,,0,,218614015,,,4
+H5,2018,2018,2018,2,0,2,Export,276,Germany,DEU,251,France,FRA,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",1,No Quantity,0,,,,0,,713138200,,,4
+H5,2018,2018,2018,2,0,2,Export,276,Germany,DEU,251,France,FRA,,,,,,,,83,Metal; miscellaneous products of base metal,1,No Quantity,0,,,,0,,749525370,,,4
+H5,2018,2018,2018,2,0,2,Export,276,Germany,DEU,251,France,FRA,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",1,No Quantity,0,,,,0,,18711593934,,,4
+H5,2018,2018,2018,2,0,2,Export,276,Germany,DEU,251,France,FRA,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",1,No Quantity,0,,,,0,,10135154325,,,4
+H5,2018,2018,2018,2,0,2,Export,276,Germany,DEU,251,France,FRA,,,,,,,,86,"Railway, tramway locomotives, rolling-stock and parts thereof; railway or tramway track fixtures and fittings and parts thereof; mechanical (including electro-mechanical) traffic signalling equipment of all kinds",1,No Quantity,0,,,,0,,179353067,,,4
+H5,2018,2018,2018,2,0,2,Export,276,Germany,DEU,251,France,FRA,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",1,No Quantity,0,,,,0,,19156447374,,,4
+H5,2018,2018,2018,2,0,2,Export,276,Germany,DEU,251,France,FRA,,,,,,,,88,"Aircraft, spacecraft and parts thereof",1,No Quantity,0,,,,0,,11732317302,,,4
+H5,2018,2018,2018,2,0,2,Export,276,Germany,DEU,251,France,FRA,,,,,,,,89,"Ships, boats and floating structures",1,No Quantity,0,,,,0,,53735568,,,0
+H5,2018,2018,2018,2,0,2,Export,276,Germany,DEU,251,France,FRA,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",1,No Quantity,0,,,,0,,4900149075,,,4
+H5,2018,2018,2018,2,0,2,Export,276,Germany,DEU,251,France,FRA,,,,,,,,91,Clocks and watches and parts thereof,1,No Quantity,0,,,,0,,352643031,,,4
+H5,2018,2018,2018,2,0,2,Export,276,Germany,DEU,251,France,FRA,,,,,,,,92,Musical instruments; parts and accessories of such articles,1,No Quantity,0,,,,0,,79602740,,,4
+H5,2018,2018,2018,2,0,2,Export,276,Germany,DEU,251,France,FRA,,,,,,,,93,Arms and ammunition; parts and accessories thereof,1,No Quantity,0,,,,0,,57067781,,,4
+H5,2018,2018,2018,2,0,2,Export,276,Germany,DEU,251,France,FRA,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.c.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",1,No Quantity,0,,,,0,,2332844953,,,4
+H5,2018,2018,2018,2,0,2,Export,276,Germany,DEU,251,France,FRA,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",1,No Quantity,0,,,,0,,572131543,,,4
+H5,2018,2018,2018,2,0,2,Export,276,Germany,DEU,251,France,FRA,,,,,,,,96,Miscellaneous manufactured articles,1,No Quantity,0,,,,0,,633424474,,,4
+H5,2018,2018,2018,2,0,2,Export,276,Germany,DEU,251,France,FRA,,,,,,,,97,Works of art; collectors' pieces and antiques,1,No Quantity,0,,,,0,,33715857,,,4
+H5,2018,2018,2018,2,0,2,Export,276,Germany,DEU,251,France,FRA,,,,,,,,99,Commodities not specified according to kind,1,No Quantity,0,,,,0,,2514528662,,,0
+H4,2014,2014,2014,2,0,2,Export,276,Germany,DEU,251,France,FRA,,,,,,,,01,Animals; live,1,No Quantity,0,,,,0,,19869021,,,4
+H4,2015,2015,2015,2,0,2,Export,276,Germany,DEU,251,France,FRA,,,,,,,,01,Animals; live,1,No Quantity,0,,,,0,,15771448,,,0
+H4,2016,2016,2016,2,0,2,Export,276,Germany,DEU,251,France,FRA,,,,,,,,01,Animals; live,1,No Quantity,0,,,,0,,12658337,,,4
+H4,2014,2014,2014,2,0,2,Export,276,Germany,DEU,251,France,FRA,,,,,,,,02,Meat and edible meat offal,1,No Quantity,0,,,,0,,840369753,,,4
+H4,2015,2015,2015,2,0,2,Export,276,Germany,DEU,251,France,FRA,,,,,,,,02,Meat and edible meat offal,1,No Quantity,0,,,,0,,638512646,,,4
+H4,2016,2016,2016,2,0,2,Export,276,Germany,DEU,251,France,FRA,,,,,,,,02,Meat and edible meat offal,1,No Quantity,0,,,,0,,561263280,,,4
+H4,2014,2014,2014,2,0,2,Export,276,Germany,DEU,251,France,FRA,,,,,,,,03,"Fish and crustaceans, molluscs and other aquatic invertebrates",1,No Quantity,0,,,,0,,182375930,,,4
+H4,2015,2015,2015,2,0,2,Export,276,Germany,DEU,251,France,FRA,,,,,,,,03,"Fish and crustaceans, molluscs and other aquatic invertebrates",1,No Quantity,0,,,,0,,166627654,,,4
+H4,2016,2016,2016,2,0,2,Export,276,Germany,DEU,251,France,FRA,,,,,,,,03,"Fish and crustaceans, molluscs and other aquatic invertebrates",1,No Quantity,0,,,,0,,201765758,,,0
+H4,2014,2014,2014,2,0,2,Export,276,Germany,DEU,251,France,FRA,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",1,No Quantity,0,,,,0,,854663017,,,4
+H4,2015,2015,2015,2,0,2,Export,276,Germany,DEU,251,France,FRA,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",1,No Quantity,0,,,,0,,610126892,,,4
+H4,2016,2016,2016,2,0,2,Export,276,Germany,DEU,251,France,FRA,,,,,,,,04,"Dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included",1,No Quantity,0,,,,0,,555081294,,,4
+H4,2014,2014,2014,2,0,2,Export,276,Germany,DEU,251,France,FRA,,,,,,,,05,Animal originated products; not elsewhere specified or included,1,No Quantity,0,,,,0,,133362401,,,4
+H4,2015,2015,2015,2,0,2,Export,276,Germany,DEU,251,France,FRA,,,,,,,,05,Animal originated products; not elsewhere specified or included,1,No Quantity,0,,,,0,,110148420,,,4
+H4,2016,2016,2016,2,0,2,Export,276,Germany,DEU,251,France,FRA,,,,,,,,05,Animal originated products; not elsewhere specified or included,1,No Quantity,0,,,,0,,103830019,,,4
+H4,2014,2014,2014,2,0,2,Export,276,Germany,DEU,251,France,FRA,,,,,,,,06,"Trees and other plants, live; bulbs, roots and the like; cut flowers and ornamental foliage",1,No Quantity,0,,,,0,,101707552,,,4
+H4,2015,2015,2015,2,0,2,Export,276,Germany,DEU,251,France,FRA,,,,,,,,06,"Trees and other plants, live; bulbs, roots and the like; cut flowers and ornamental foliage",1,No Quantity,0,,,,0,,79492726,,,4
+H4,2016,2016,2016,2,0,2,Export,276,Germany,DEU,251,France,FRA,,,,,,,,06,"Trees and other plants, live; bulbs, roots and the like; cut flowers and ornamental foliage",1,No Quantity,0,,,,0,,96065142,,,0
+H4,2014,2014,2014,2,0,2,Export,276,Germany,DEU,251,France,FRA,,,,,,,,07,Vegetables and certain roots and tubers; edible,1,No Quantity,0,,,,0,,88492378,,,4
+H4,2015,2015,2015,2,0,2,Export,276,Germany,DEU,251,France,FRA,,,,,,,,07,Vegetables and certain roots and tubers; edible,1,No Quantity,0,,,,0,,71532376,,,4
+H4,2016,2016,2016,2,0,2,Export,276,Germany,DEU,251,France,FRA,,,,,,,,07,Vegetables and certain roots and tubers; edible,1,No Quantity,0,,,,0,,75109796,,,4
+H4,2014,2014,2014,2,0,2,Export,276,Germany,DEU,251,France,FRA,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",1,No Quantity,0,,,,0,,184670925,,,4
+H4,2015,2015,2015,2,0,2,Export,276,Germany,DEU,251,France,FRA,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",1,No Quantity,0,,,,0,,186813398,,,4
+H4,2016,2016,2016,2,0,2,Export,276,Germany,DEU,251,France,FRA,,,,,,,,08,"Fruit and nuts, edible; peel of citrus fruit or melons",1,No Quantity,0,,,,0,,205259799,,,4
+H4,2014,2014,2014,2,0,2,Export,276,Germany,DEU,251,France,FRA,,,,,,,,09,"Coffee, tea, mate and spices",1,No Quantity,0,,,,0,,296299206,,,4
+H4,2015,2015,2015,2,0,2,Export,276,Germany,DEU,251,France,FRA,,,,,,,,09,"Coffee, tea, mate and spices",1,No Quantity,0,,,,0,,293755635,,,4
+H4,2016,2016,2016,2,0,2,Export,276,Germany,DEU,251,France,FRA,,,,,,,,09,"Coffee, tea, mate and spices",1,No Quantity,0,,,,0,,322064983,,,4
+H4,2014,2014,2014,2,0,2,Export,276,Germany,DEU,251,France,FRA,,,,,,,,10,Cereals,1,No Quantity,0,,,,0,,163529278,,,4
+H4,2015,2015,2015,2,0,2,Export,276,Germany,DEU,251,France,FRA,,,,,,,,10,Cereals,1,No Quantity,0,,,,0,,138005190,,,4
+H4,2016,2016,2016,2,0,2,Export,276,Germany,DEU,251,France,FRA,,,,,,,,10,Cereals,1,No Quantity,0,,,,0,,127201853,,,4
+H4,2014,2014,2014,2,0,2,Export,276,Germany,DEU,251,France,FRA,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",1,No Quantity,0,,,,0,,181297079,,,0
+H4,2015,2015,2015,2,0,2,Export,276,Germany,DEU,251,France,FRA,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",1,No Quantity,0,,,,0,,164317095,,,4
+H4,2016,2016,2016,2,0,2,Export,276,Germany,DEU,251,France,FRA,,,,,,,,11,"Products of the milling industry; malt, starches, inulin, wheat gluten",1,No Quantity,0,,,,0,,169710288,,,0
+H4,2014,2014,2014,2,0,2,Export,276,Germany,DEU,251,France,FRA,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",1,No Quantity,0,,,,0,,154780790,,,4
+H4,2015,2015,2015,2,0,2,Export,276,Germany,DEU,251,France,FRA,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",1,No Quantity,0,,,,0,,142390515,,,4
+H4,2016,2016,2016,2,0,2,Export,276,Germany,DEU,251,France,FRA,,,,,,,,12,"Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit, industrial or medicinal plants; straw and fodder",1,No Quantity,0,,,,0,,158807190,,,4
+H4,2014,2014,2014,2,0,2,Export,276,Germany,DEU,251,France,FRA,,,,,,,,13,"Lac; gums, resins and other vegetable saps and extracts",1,No Quantity,0,,,,0,,49106445,,,4
+H4,2015,2015,2015,2,0,2,Export,276,Germany,DEU,251,France,FRA,,,,,,,,13,"Lac; gums, resins and other vegetable saps and extracts",1,No Quantity,0,,,,0,,46867770,,,4
+H4,2016,2016,2016,2,0,2,Export,276,Germany,DEU,251,France,FRA,,,,,,,,13,"Lac; gums, resins and other vegetable saps and extracts",1,No Quantity,0,,,,0,,41864976,,,4
+H4,2014,2014,2014,2,0,2,Export,276,Germany,DEU,251,France,FRA,,,,,,,,14,Vegetable plaiting materials; vegetable products not elsewhere specified or included,1,No Quantity,0,,,,0,,743406,,,0
+H4,2015,2015,2015,2,0,2,Export,276,Germany,DEU,251,France,FRA,,,,,,,,14,Vegetable plaiting materials; vegetable products not elsewhere specified or included,1,No Quantity,0,,,,0,,467359,,,4
+H4,2016,2016,2016,2,0,2,Export,276,Germany,DEU,251,France,FRA,,,,,,,,14,Vegetable plaiting materials; vegetable products not elsewhere specified or included,1,No Quantity,0,,,,0,,574174,,,4
+H4,2014,2014,2014,2,0,2,Export,276,Germany,DEU,251,France,FRA,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,1,No Quantity,0,,,,0,,151471367,,,4
+H4,2015,2015,2015,2,0,2,Export,276,Germany,DEU,251,France,FRA,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,1,No Quantity,0,,,,0,,152569007,,,4
+H4,2016,2016,2016,2,0,2,Export,276,Germany,DEU,251,France,FRA,,,,,,,,15,Animal or vegetable fats and oils and their cleavage products; prepared animal fats; animal or vegetable waxes,1,No Quantity,0,,,,0,,154307660,,,4
+H4,2014,2014,2014,2,0,2,Export,276,Germany,DEU,251,France,FRA,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",1,No Quantity,0,,,,0,,567132376,,,4
+H4,2015,2015,2015,2,0,2,Export,276,Germany,DEU,251,France,FRA,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",1,No Quantity,0,,,,0,,479561719,,,4
+H4,2016,2016,2016,2,0,2,Export,276,Germany,DEU,251,France,FRA,,,,,,,,16,"Meat, fish or crustaceans, molluscs or other aquatic invertebrates; preparations thereof",1,No Quantity,0,,,,0,,452742410,,,4
+H4,2014,2014,2014,2,0,2,Export,276,Germany,DEU,251,France,FRA,,,,,,,,17,Sugars and sugar confectionery,1,No Quantity,0,,,,0,,193719661,,,4
+H4,2015,2015,2015,2,0,2,Export,276,Germany,DEU,251,France,FRA,,,,,,,,17,Sugars and sugar confectionery,1,No Quantity,0,,,,0,,147707445,,,4
+H4,2016,2016,2016,2,0,2,Export,276,Germany,DEU,251,France,FRA,,,,,,,,17,Sugars and sugar confectionery,1,No Quantity,0,,,,0,,147239015,,,4
+H4,2014,2014,2014,2,0,2,Export,276,Germany,DEU,251,France,FRA,,,,,,,,18,Cocoa and cocoa preparations,1,No Quantity,0,,,,0,,710274400,,,4
+H4,2015,2015,2015,2,0,2,Export,276,Germany,DEU,251,France,FRA,,,,,,,,18,Cocoa and cocoa preparations,1,No Quantity,0,,,,0,,670816471,,,4
+H4,2016,2016,2016,2,0,2,Export,276,Germany,DEU,251,France,FRA,,,,,,,,18,Cocoa and cocoa preparations,1,No Quantity,0,,,,0,,724924966,,,4
+H4,2014,2014,2014,2,0,2,Export,276,Germany,DEU,251,France,FRA,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",1,No Quantity,0,,,,0,,845246999,,,4
+H4,2015,2015,2015,2,0,2,Export,276,Germany,DEU,251,France,FRA,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",1,No Quantity,0,,,,0,,696472882,,,4
+H4,2016,2016,2016,2,0,2,Export,276,Germany,DEU,251,France,FRA,,,,,,,,19,"Preparations of cereals, flour, starch or milk; pastrycooks' products",1,No Quantity,0,,,,0,,687331383,,,4
+H4,2014,2014,2014,2,0,2,Export,276,Germany,DEU,251,France,FRA,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",1,No Quantity,0,,,,0,,518666304,,,4
+H4,2015,2015,2015,2,0,2,Export,276,Germany,DEU,251,France,FRA,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",1,No Quantity,0,,,,0,,423972946,,,4
+H4,2016,2016,2016,2,0,2,Export,276,Germany,DEU,251,France,FRA,,,,,,,,20,"Preparations of vegetables, fruit, nuts or other parts of plants",1,No Quantity,0,,,,0,,460190185,,,4
+H4,2014,2014,2014,2,0,2,Export,276,Germany,DEU,251,France,FRA,,,,,,,,21,Miscellaneous edible preparations,1,No Quantity,0,,,,0,,581699343,,,4
+H4,2015,2015,2015,2,0,2,Export,276,Germany,DEU,251,France,FRA,,,,,,,,21,Miscellaneous edible preparations,1,No Quantity,0,,,,0,,512669843,,,4
+H4,2016,2016,2016,2,0,2,Export,276,Germany,DEU,251,France,FRA,,,,,,,,21,Miscellaneous edible preparations,1,No Quantity,0,,,,0,,540298288,,,4
+H4,2014,2014,2014,2,0,2,Export,276,Germany,DEU,251,France,FRA,,,,,,,,22,"Beverages, spirits and vinegar",1,No Quantity,0,,,,0,,470738895,,,4
+H4,2015,2015,2015,2,0,2,Export,276,Germany,DEU,251,France,FRA,,,,,,,,22,"Beverages, spirits and vinegar",1,No Quantity,0,,,,0,,402848132,,,4
+H4,2016,2016,2016,2,0,2,Export,276,Germany,DEU,251,France,FRA,,,,,,,,22,"Beverages, spirits and vinegar",1,No Quantity,0,,,,0,,448043270,,,4
+H4,2014,2014,2014,2,0,2,Export,276,Germany,DEU,251,France,FRA,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",1,No Quantity,0,,,,0,,371333786,,,4
+H4,2015,2015,2015,2,0,2,Export,276,Germany,DEU,251,France,FRA,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",1,No Quantity,0,,,,0,,323661572,,,0
+H4,2016,2016,2016,2,0,2,Export,276,Germany,DEU,251,France,FRA,,,,,,,,23,"Food industries, residues and wastes thereof; prepared animal fodder",1,No Quantity,0,,,,0,,320837639,,,4
+H4,2014,2014,2014,2,0,2,Export,276,Germany,DEU,251,France,FRA,,,,,,,,24,Tobacco and manufactured tobacco substitutes,1,No Quantity,0,,,,0,,508983158,,,0
+H4,2015,2015,2015,2,0,2,Export,276,Germany,DEU,251,France,FRA,,,,,,,,24,Tobacco and manufactured tobacco substitutes,1,No Quantity,0,,,,0,,472320369,,,0
+H4,2016,2016,2016,2,0,2,Export,276,Germany,DEU,251,France,FRA,,,,,,,,24,Tobacco and manufactured tobacco substitutes,1,No Quantity,0,,,,0,,377518178,,,0
+H4,2014,2014,2014,2,0,2,Export,276,Germany,DEU,251,France,FRA,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",1,No Quantity,0,,,,0,,237755808,,,4
+H4,2015,2015,2015,2,0,2,Export,276,Germany,DEU,251,France,FRA,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",1,No Quantity,0,,,,0,,211660903,,,4
+H4,2016,2016,2016,2,0,2,Export,276,Germany,DEU,251,France,FRA,,,,,,,,25,"Salt; sulphur; earths, stone; plastering materials, lime and cement",1,No Quantity,0,,,,0,,186228484,,,4
+H4,2014,2014,2014,2,0,2,Export,276,Germany,DEU,251,France,FRA,,,,,,,,26,"Ores, slag and ash",1,No Quantity,0,,,,0,,82960005,,,0
+H4,2015,2015,2015,2,0,2,Export,276,Germany,DEU,251,France,FRA,,,,,,,,26,"Ores, slag and ash",1,No Quantity,0,,,,0,,61333228,,,0
+H4,2016,2016,2016,2,0,2,Export,276,Germany,DEU,251,France,FRA,,,,,,,,26,"Ores, slag and ash",1,No Quantity,0,,,,0,,66304181,,,0
+H4,2014,2014,2014,2,0,2,Export,276,Germany,DEU,251,France,FRA,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,,,1833000738,,,4
+H4,2015,2015,2015,2,0,2,Export,276,Germany,DEU,251,France,FRA,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,,,1204592682,,,4
+H4,2016,2016,2016,2,0,2,Export,276,Germany,DEU,251,France,FRA,,,,,,,,27,"Mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes",1,No Quantity,0,,,,0,,950349972,,,4
+H4,2014,2014,2014,2,0,2,Export,276,Germany,DEU,251,France,FRA,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",1,No Quantity,0,,,,0,,1198576284,,,4
+H4,2015,2015,2015,2,0,2,Export,276,Germany,DEU,251,France,FRA,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",1,No Quantity,0,,,,0,,1045964755,,,4
+H4,2016,2016,2016,2,0,2,Export,276,Germany,DEU,251,France,FRA,,,,,,,,28,"Inorganic chemicals; organic and inorganic compounds of precious metals; of rare earth metals, of radio-active elements and of isotopes",1,No Quantity,0,,,,0,,876923012,,,4
+H4,2014,2014,2014,2,0,2,Export,276,Germany,DEU,251,France,FRA,,,,,,,,29,Organic chemicals,1,No Quantity,0,,,,0,,2793518549,,,4
+H4,2015,2015,2015,2,0,2,Export,276,Germany,DEU,251,France,FRA,,,,,,,,29,Organic chemicals,1,No Quantity,0,,,,0,,2194744190,,,4
+H4,2016,2016,2016,2,0,2,Export,276,Germany,DEU,251,France,FRA,,,,,,,,29,Organic chemicals,1,No Quantity,0,,,,0,,2012353268,,,4
+H4,2014,2014,2014,2,0,2,Export,276,Germany,DEU,251,France,FRA,,,,,,,,30,Pharmaceutical products,1,No Quantity,0,,,,0,,4430152554,,,4
+H4,2015,2015,2015,2,0,2,Export,276,Germany,DEU,251,France,FRA,,,,,,,,30,Pharmaceutical products,1,No Quantity,0,,,,0,,3960633798,,,4
+H4,2016,2016,2016,2,0,2,Export,276,Germany,DEU,251,France,FRA,,,,,,,,30,Pharmaceutical products,1,No Quantity,0,,,,0,,3836278091,,,4
+H4,2014,2014,2014,2,0,2,Export,276,Germany,DEU,251,France,FRA,,,,,,,,31,Fertilizers,1,No Quantity,0,,,,0,,205326363,,,0
+H4,2015,2015,2015,2,0,2,Export,276,Germany,DEU,251,France,FRA,,,,,,,,31,Fertilizers,1,No Quantity,0,,,,0,,166428427,,,4
+H4,2016,2016,2016,2,0,2,Export,276,Germany,DEU,251,France,FRA,,,,,,,,31,Fertilizers,1,No Quantity,0,,,,0,,138661829,,,0
+H4,2014,2014,2014,2,0,2,Export,276,Germany,DEU,251,France,FRA,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",1,No Quantity,0,,,,0,,1322655500,,,4
+H4,2015,2015,2015,2,0,2,Export,276,Germany,DEU,251,France,FRA,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",1,No Quantity,0,,,,0,,1116392291,,,4
+H4,2016,2016,2016,2,0,2,Export,276,Germany,DEU,251,France,FRA,,,,,,,,32,"Tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints, varnishes; putty, other mastics; inks",1,No Quantity,0,,,,0,,1095810053,,,4
+H4,2014,2014,2014,2,0,2,Export,276,Germany,DEU,251,France,FRA,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",1,No Quantity,0,,,,0,,863735335,,,4
+H4,2015,2015,2015,2,0,2,Export,276,Germany,DEU,251,France,FRA,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",1,No Quantity,0,,,,0,,752177926,,,4
+H4,2016,2016,2016,2,0,2,Export,276,Germany,DEU,251,France,FRA,,,,,,,,33,"Essential oils and resinoids; perfumery, cosmetic or toilet preparations",1,No Quantity,0,,,,0,,782815944,,,4
+H4,2014,2014,2014,2,0,2,Export,276,Germany,DEU,251,France,FRA,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, dental waxes and dental preparations with a basis of plaster",1,No Quantity,0,,,,0,,729523136,,,4
+H4,2015,2015,2015,2,0,2,Export,276,Germany,DEU,251,France,FRA,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, dental waxes and dental preparations with a basis of plaster",1,No Quantity,0,,,,0,,628965402,,,4
+H4,2016,2016,2016,2,0,2,Export,276,Germany,DEU,251,France,FRA,,,,,,,,34,"Soap, organic surface-active agents; washing, lubricating, polishing or scouring preparations; artificial or prepared waxes, candles and similar articles, modelling pastes, dental waxes and dental preparations with a basis of plaster",1,No Quantity,0,,,,0,,703764146,,,4
+H4,2014,2014,2014,2,0,2,Export,276,Germany,DEU,251,France,FRA,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,1,No Quantity,0,,,,0,,334469045,,,4
+H4,2015,2015,2015,2,0,2,Export,276,Germany,DEU,251,France,FRA,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,1,No Quantity,0,,,,0,,282742389,,,4
+H4,2016,2016,2016,2,0,2,Export,276,Germany,DEU,251,France,FRA,,,,,,,,35,Albuminoidal substances; modified starches; glues; enzymes,1,No Quantity,0,,,,0,,279609373,,,4
+H4,2014,2014,2014,2,0,2,Export,276,Germany,DEU,251,France,FRA,,,,,,,,36,Explosives; pyrotechnic products; matches; pyrophoric alloys; certain combustible preparations,1,No Quantity,0,,,,0,,33714980,,,4
+H4,2015,2015,2015,2,0,2,Export,276,Germany,DEU,251,France,FRA,,,,,,,,36,Explosives; pyrotechnic products; matches; pyrophoric alloys; certain combustible preparations,1,No Quantity,0,,,,0,,15388114,,,4
+H4,2016,2016,2016,2,0,2,Export,276,Germany,DEU,251,France,FRA,,,,,,,,36,Explosives; pyrotechnic products; matches; pyrophoric alloys; certain combustible preparations,1,No Quantity,0,,,,0,,22149713,,,4
+H4,2014,2014,2014,2,0,2,Export,276,Germany,DEU,251,France,FRA,,,,,,,,37,Photographic or cinematographic goods,1,No Quantity,0,,,,0,,134130649,,,4
+H4,2015,2015,2015,2,0,2,Export,276,Germany,DEU,251,France,FRA,,,,,,,,37,Photographic or cinematographic goods,1,No Quantity,0,,,,0,,125031952,,,4
+H4,2016,2016,2016,2,0,2,Export,276,Germany,DEU,251,France,FRA,,,,,,,,37,Photographic or cinematographic goods,1,No Quantity,0,,,,0,,134240468,,,4
+H4,2014,2014,2014,2,0,2,Export,276,Germany,DEU,251,France,FRA,,,,,,,,38,Chemical products n.e.c.,1,No Quantity,0,,,,0,,2555852530,,,4
+H4,2015,2015,2015,2,0,2,Export,276,Germany,DEU,251,France,FRA,,,,,,,,38,Chemical products n.e.c.,1,No Quantity,0,,,,0,,2207463616,,,4
+H4,2016,2016,2016,2,0,2,Export,276,Germany,DEU,251,France,FRA,,,,,,,,38,Chemical products n.e.c.,1,No Quantity,0,,,,0,,2040311796,,,4
+H4,2014,2014,2014,2,0,2,Export,276,Germany,DEU,251,France,FRA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,5648988491,,,4
+H4,2015,2015,2015,2,0,2,Export,276,Germany,DEU,251,France,FRA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,4759428604,,,4
+H4,2016,2016,2016,2,0,2,Export,276,Germany,DEU,251,France,FRA,,,,,,,,39,Plastics and articles thereof,1,No Quantity,0,,,,0,,4901095492,,,4
+H4,2014,2014,2014,2,0,2,Export,276,Germany,DEU,251,France,FRA,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,1826030210,,,4
+H4,2015,2015,2015,2,0,2,Export,276,Germany,DEU,251,France,FRA,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,1532969039,,,4
+H4,2016,2016,2016,2,0,2,Export,276,Germany,DEU,251,France,FRA,,,,,,,,40,Rubber and articles thereof,1,No Quantity,0,,,,0,,1586702234,,,4
+H4,2014,2014,2014,2,0,2,Export,276,Germany,DEU,251,France,FRA,,,,,,,,41,Raw hides and skins (other than furskins) and leather,1,No Quantity,0,,,,0,,59463276,,,4
+H4,2015,2015,2015,2,0,2,Export,276,Germany,DEU,251,France,FRA,,,,,,,,41,Raw hides and skins (other than furskins) and leather,1,No Quantity,0,,,,0,,38750650,,,4
+H4,2016,2016,2016,2,0,2,Export,276,Germany,DEU,251,France,FRA,,,,,,,,41,Raw hides and skins (other than furskins) and leather,1,No Quantity,0,,,,0,,42301671,,,4
+H4,2014,2014,2014,2,0,2,Export,276,Germany,DEU,251,France,FRA,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",1,No Quantity,0,,,,0,,219510002,,,4
+H4,2015,2015,2015,2,0,2,Export,276,Germany,DEU,251,France,FRA,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",1,No Quantity,0,,,,0,,198077665,,,4
+H4,2016,2016,2016,2,0,2,Export,276,Germany,DEU,251,France,FRA,,,,,,,,42,"Articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut)",1,No Quantity,0,,,,0,,210645086,,,4
+H4,2014,2014,2014,2,0,2,Export,276,Germany,DEU,251,France,FRA,,,,,,,,43,Furskins and artificial fur; manufactures thereof,1,No Quantity,0,,,,0,,9177618,,,4
+H4,2015,2015,2015,2,0,2,Export,276,Germany,DEU,251,France,FRA,,,,,,,,43,Furskins and artificial fur; manufactures thereof,1,No Quantity,0,,,,0,,6246998,,,4
+H4,2016,2016,2016,2,0,2,Export,276,Germany,DEU,251,France,FRA,,,,,,,,43,Furskins and artificial fur; manufactures thereof,1,No Quantity,0,,,,0,,5848955,,,4
+H4,2014,2014,2014,2,0,2,Export,276,Germany,DEU,251,France,FRA,,,,,,,,44,Wood and articles of wood; wood charcoal,1,No Quantity,0,,,,0,,935095195,,,4
+H4,2015,2015,2015,2,0,2,Export,276,Germany,DEU,251,France,FRA,,,,,,,,44,Wood and articles of wood; wood charcoal,1,No Quantity,0,,,,0,,750957190,,,4
+H4,2016,2016,2016,2,0,2,Export,276,Germany,DEU,251,France,FRA,,,,,,,,44,Wood and articles of wood; wood charcoal,1,No Quantity,0,,,,0,,786410561,,,4
+H4,2014,2014,2014,2,0,2,Export,276,Germany,DEU,251,France,FRA,,,,,,,,45,Cork and articles of cork,1,No Quantity,0,,,,0,,4663074,,,4
+H4,2015,2015,2015,2,0,2,Export,276,Germany,DEU,251,France,FRA,,,,,,,,45,Cork and articles of cork,1,No Quantity,0,,,,0,,3926922,,,4
+H4,2016,2016,2016,2,0,2,Export,276,Germany,DEU,251,France,FRA,,,,,,,,45,Cork and articles of cork,1,No Quantity,0,,,,0,,4493764,,,4
+H4,2014,2014,2014,2,0,2,Export,276,Germany,DEU,251,France,FRA,,,,,,,,46,"Manufactures of straw, esparto or other plaiting materials; basketware and wickerwork",1,No Quantity,0,,,,0,,4362290,,,4
+H4,2015,2015,2015,2,0,2,Export,276,Germany,DEU,251,France,FRA,,,,,,,,46,"Manufactures of straw, esparto or other plaiting materials; basketware and wickerwork",1,No Quantity,0,,,,0,,4010302,,,4
+H4,2016,2016,2016,2,0,2,Export,276,Germany,DEU,251,France,FRA,,,,,,,,46,"Manufactures of straw, esparto or other plaiting materials; basketware and wickerwork",1,No Quantity,0,,,,0,,4017110,,,4
+H4,2014,2014,2014,2,0,2,Export,276,Germany,DEU,251,France,FRA,,,,,,,,47,Pulp of wood or other fibrous cellulosic material; recovered (waste and scrap) paper or paperboard,1,No Quantity,0,,,,0,,123173838,,,4
+H4,2015,2015,2015,2,0,2,Export,276,Germany,DEU,251,France,FRA,,,,,,,,47,Pulp of wood or other fibrous cellulosic material; recovered (waste and scrap) paper or paperboard,1,No Quantity,0,,,,0,,124238110,,,0
+H4,2016,2016,2016,2,0,2,Export,276,Germany,DEU,251,France,FRA,,,,,,,,47,Pulp of wood or other fibrous cellulosic material; recovered (waste and scrap) paper or paperboard,1,No Quantity,0,,,,0,,127398202,,,0
+H4,2014,2014,2014,2,0,2,Export,276,Germany,DEU,251,France,FRA,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",1,No Quantity,0,,,,0,,2606559485,,,4
+H4,2015,2015,2015,2,0,2,Export,276,Germany,DEU,251,France,FRA,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",1,No Quantity,0,,,,0,,2161343905,,,4
+H4,2016,2016,2016,2,0,2,Export,276,Germany,DEU,251,France,FRA,,,,,,,,48,"Paper and paperboard; articles of paper pulp, of paper or paperboard",1,No Quantity,0,,,,0,,2141315334,,,4
+H4,2014,2014,2014,2,0,2,Export,276,Germany,DEU,251,France,FRA,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",1,No Quantity,0,,,,0,,604611752,,,4
+H4,2015,2015,2015,2,0,2,Export,276,Germany,DEU,251,France,FRA,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",1,No Quantity,0,,,,0,,486170602,,,4
+H4,2016,2016,2016,2,0,2,Export,276,Germany,DEU,251,France,FRA,,,,,,,,49,"Printed books, newspapers, pictures and other products of the printing industry; manuscripts, typescripts and plans",1,No Quantity,0,,,,0,,456662053,,,4
+H4,2014,2014,2014,2,0,2,Export,276,Germany,DEU,251,France,FRA,,,,,,,,50,Silk,1,No Quantity,0,,,,0,,2502022,,,4
+H4,2015,2015,2015,2,0,2,Export,276,Germany,DEU,251,France,FRA,,,,,,,,50,Silk,1,No Quantity,0,,,,0,,1607913,,,4
+H4,2016,2016,2016,2,0,2,Export,276,Germany,DEU,251,France,FRA,,,,,,,,50,Silk,1,No Quantity,0,,,,0,,935828,,,4
+H4,2014,2014,2014,2,0,2,Export,276,Germany,DEU,251,France,FRA,,,,,,,,51,"Wool, fine or coarse animal hair; horsehair yarn and woven fabric",1,No Quantity,0,,,,0,,8422941,,,4
+H4,2015,2015,2015,2,0,2,Export,276,Germany,DEU,251,France,FRA,,,,,,,,51,"Wool, fine or coarse animal hair; horsehair yarn and woven fabric",1,No Quantity,0,,,,0,,7465502,,,4
+H4,2016,2016,2016,2,0,2,Export,276,Germany,DEU,251,France,FRA,,,,,,,,51,"Wool, fine or coarse animal hair; horsehair yarn and woven fabric",1,No Quantity,0,,,,0,,8890911,,,4
+H4,2014,2014,2014,2,0,2,Export,276,Germany,DEU,251,France,FRA,,,,,,,,52,Cotton,1,No Quantity,0,,,,0,,81262339,,,4
+H4,2015,2015,2015,2,0,2,Export,276,Germany,DEU,251,France,FRA,,,,,,,,52,Cotton,1,No Quantity,0,,,,0,,56703576,,,4
+H4,2016,2016,2016,2,0,2,Export,276,Germany,DEU,251,France,FRA,,,,,,,,52,Cotton,1,No Quantity,0,,,,0,,50597817,,,4
+H4,2014,2014,2014,2,0,2,Export,276,Germany,DEU,251,France,FRA,,,,,,,,53,Vegetable textile fibres; paper yarn and woven fabrics of paper yarn,1,No Quantity,0,,,,0,,4158967,,,4
+H4,2015,2015,2015,2,0,2,Export,276,Germany,DEU,251,France,FRA,,,,,,,,53,Vegetable textile fibres; paper yarn and woven fabrics of paper yarn,1,No Quantity,0,,,,0,,3391274,,,4
+H4,2016,2016,2016,2,0,2,Export,276,Germany,DEU,251,France,FRA,,,,,,,,53,Vegetable textile fibres; paper yarn and woven fabrics of paper yarn,1,No Quantity,0,,,,0,,3260638,,,4
+H4,2014,2014,2014,2,0,2,Export,276,Germany,DEU,251,France,FRA,,,,,,,,54,Man-made filaments; strip and the like of man-made textile materials,1,No Quantity,0,,,,0,,141081938,,,4
+H4,2015,2015,2015,2,0,2,Export,276,Germany,DEU,251,France,FRA,,,,,,,,54,Man-made filaments; strip and the like of man-made textile materials,1,No Quantity,0,,,,0,,121932154,,,4
+H4,2016,2016,2016,2,0,2,Export,276,Germany,DEU,251,France,FRA,,,,,,,,54,Man-made filaments; strip and the like of man-made textile materials,1,No Quantity,0,,,,0,,123629213,,,4
+H4,2014,2014,2014,2,0,2,Export,276,Germany,DEU,251,France,FRA,,,,,,,,55,Man-made staple fibres,1,No Quantity,0,,,,0,,82036655,,,4
+H4,2015,2015,2015,2,0,2,Export,276,Germany,DEU,251,France,FRA,,,,,,,,55,Man-made staple fibres,1,No Quantity,0,,,,0,,72192163,,,4
+H4,2016,2016,2016,2,0,2,Export,276,Germany,DEU,251,France,FRA,,,,,,,,55,Man-made staple fibres,1,No Quantity,0,,,,0,,65782810,,,4
+H4,2014,2014,2014,2,0,2,Export,276,Germany,DEU,251,France,FRA,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",1,No Quantity,0,,,,0,,221217492,,,4
+H4,2015,2015,2015,2,0,2,Export,276,Germany,DEU,251,France,FRA,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",1,No Quantity,0,,,,0,,187479275,,,4
+H4,2016,2016,2016,2,0,2,Export,276,Germany,DEU,251,France,FRA,,,,,,,,56,"Wadding, felt and nonwovens, special yarns; twine, cordage, ropes and cables and articles thereof",1,No Quantity,0,,,,0,,184518602,,,4
+H4,2014,2014,2014,2,0,2,Export,276,Germany,DEU,251,France,FRA,,,,,,,,57,Carpets and other textile floor coverings,1,No Quantity,0,,,,0,,54957328,,,4
+H4,2015,2015,2015,2,0,2,Export,276,Germany,DEU,251,France,FRA,,,,,,,,57,Carpets and other textile floor coverings,1,No Quantity,0,,,,0,,43037401,,,0
+H4,2016,2016,2016,2,0,2,Export,276,Germany,DEU,251,France,FRA,,,,,,,,57,Carpets and other textile floor coverings,1,No Quantity,0,,,,0,,45630007,,,0
+H4,2014,2014,2014,2,0,2,Export,276,Germany,DEU,251,France,FRA,,,,,,,,58,"Fabrics; special woven fabrics, tufted textile fabrics, lace, tapestries, trimmings, embroidery",1,No Quantity,0,,,,0,,35463859,,,4
+H4,2015,2015,2015,2,0,2,Export,276,Germany,DEU,251,France,FRA,,,,,,,,58,"Fabrics; special woven fabrics, tufted textile fabrics, lace, tapestries, trimmings, embroidery",1,No Quantity,0,,,,0,,30992025,,,4
+H4,2016,2016,2016,2,0,2,Export,276,Germany,DEU,251,France,FRA,,,,,,,,58,"Fabrics; special woven fabrics, tufted textile fabrics, lace, tapestries, trimmings, embroidery",1,No Quantity,0,,,,0,,29130600,,,4
+H4,2014,2014,2014,2,0,2,Export,276,Germany,DEU,251,France,FRA,,,,,,,,59,"Textile fabrics; impregnated, coated, covered or laminated; textile articles of a kind suitable for industrial use",1,No Quantity,0,,,,0,,139788295,,,4
+H4,2015,2015,2015,2,0,2,Export,276,Germany,DEU,251,France,FRA,,,,,,,,59,"Textile fabrics; impregnated, coated, covered or laminated; textile articles of a kind suitable for industrial use",1,No Quantity,0,,,,0,,121714029,,,4
+H4,2016,2016,2016,2,0,2,Export,276,Germany,DEU,251,France,FRA,,,,,,,,59,"Textile fabrics; impregnated, coated, covered or laminated; textile articles of a kind suitable for industrial use",1,No Quantity,0,,,,0,,119026548,,,4
+H4,2014,2014,2014,2,0,2,Export,276,Germany,DEU,251,France,FRA,,,,,,,,60,Fabrics; knitted or crocheted,1,No Quantity,0,,,,0,,50534876,,,4
+H4,2015,2015,2015,2,0,2,Export,276,Germany,DEU,251,France,FRA,,,,,,,,60,Fabrics; knitted or crocheted,1,No Quantity,0,,,,0,,43805186,,,4
+H4,2016,2016,2016,2,0,2,Export,276,Germany,DEU,251,France,FRA,,,,,,,,60,Fabrics; knitted or crocheted,1,No Quantity,0,,,,0,,37256093,,,4
+H4,2014,2014,2014,2,0,2,Export,276,Germany,DEU,251,France,FRA,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,1,No Quantity,0,,,,0,,1020947366,,,4
+H4,2015,2015,2015,2,0,2,Export,276,Germany,DEU,251,France,FRA,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,1,No Quantity,0,,,,0,,841037367,,,4
+H4,2016,2016,2016,2,0,2,Export,276,Germany,DEU,251,France,FRA,,,,,,,,61,Apparel and clothing accessories; knitted or crocheted,1,No Quantity,0,,,,0,,851154076,,,4
+H4,2014,2014,2014,2,0,2,Export,276,Germany,DEU,251,France,FRA,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,1,No Quantity,0,,,,0,,1042805292,,,4
+H4,2015,2015,2015,2,0,2,Export,276,Germany,DEU,251,France,FRA,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,1,No Quantity,0,,,,0,,855505380,,,4
+H4,2016,2016,2016,2,0,2,Export,276,Germany,DEU,251,France,FRA,,,,,,,,62,Apparel and clothing accessories; not knitted or crocheted,1,No Quantity,0,,,,0,,938195963,,,4
+H4,2014,2014,2014,2,0,2,Export,276,Germany,DEU,251,France,FRA,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",1,No Quantity,0,,,,0,,213961575,,,4
+H4,2015,2015,2015,2,0,2,Export,276,Germany,DEU,251,France,FRA,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",1,No Quantity,0,,,,0,,192330334,,,4
+H4,2016,2016,2016,2,0,2,Export,276,Germany,DEU,251,France,FRA,,,,,,,,63,"Textiles, made up articles; sets; worn clothing and worn textile articles; rags",1,No Quantity,0,,,,0,,206476010,,,4
+H4,2014,2014,2014,2,0,2,Export,276,Germany,DEU,251,France,FRA,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,1,No Quantity,0,,,,0,,745180829,,,4
+H4,2015,2015,2015,2,0,2,Export,276,Germany,DEU,251,France,FRA,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,1,No Quantity,0,,,,0,,693513557,,,4
+H4,2016,2016,2016,2,0,2,Export,276,Germany,DEU,251,France,FRA,,,,,,,,64,Footwear; gaiters and the like; parts of such articles,1,No Quantity,0,,,,0,,780062641,,,4
+H4,2014,2014,2014,2,0,2,Export,276,Germany,DEU,251,France,FRA,,,,,,,,65,Headgear and parts thereof,1,No Quantity,0,,,,0,,55472696,,,4
+H4,2015,2015,2015,2,0,2,Export,276,Germany,DEU,251,France,FRA,,,,,,,,65,Headgear and parts thereof,1,No Quantity,0,,,,0,,45322825,,,4
+H4,2016,2016,2016,2,0,2,Export,276,Germany,DEU,251,France,FRA,,,,,,,,65,Headgear and parts thereof,1,No Quantity,0,,,,0,,47288253,,,4
+H4,2014,2014,2014,2,0,2,Export,276,Germany,DEU,251,France,FRA,,,,,,,,66,"Umbrellas, sun umbrellas, walking-sticks, seat sticks, whips, riding crops; and parts thereof",1,No Quantity,0,,,,0,,15872309,,,4
+H4,2015,2015,2015,2,0,2,Export,276,Germany,DEU,251,France,FRA,,,,,,,,66,"Umbrellas, sun umbrellas, walking-sticks, seat sticks, whips, riding crops; and parts thereof",1,No Quantity,0,,,,0,,16690372,,,4
+H4,2016,2016,2016,2,0,2,Export,276,Germany,DEU,251,France,FRA,,,,,,,,66,"Umbrellas, sun umbrellas, walking-sticks, seat sticks, whips, riding crops; and parts thereof",1,No Quantity,0,,,,0,,14138247,,,4
+H4,2014,2014,2014,2,0,2,Export,276,Germany,DEU,251,France,FRA,,,,,,,,67,"Feathers and down, prepared; and articles made of feather or of down; artificial flowers; articles of human hair",1,No Quantity,0,,,,0,,15025728,,,4
+H4,2015,2015,2015,2,0,2,Export,276,Germany,DEU,251,France,FRA,,,,,,,,67,"Feathers and down, prepared; and articles made of feather or of down; artificial flowers; articles of human hair",1,No Quantity,0,,,,0,,13420927,,,4
+H4,2016,2016,2016,2,0,2,Export,276,Germany,DEU,251,France,FRA,,,,,,,,67,"Feathers and down, prepared; and articles made of feather or of down; artificial flowers; articles of human hair",1,No Quantity,0,,,,0,,14997888,,,4
+H4,2014,2014,2014,2,0,2,Export,276,Germany,DEU,251,France,FRA,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",1,No Quantity,0,,,,0,,481804971,,,4
+H4,2015,2015,2015,2,0,2,Export,276,Germany,DEU,251,France,FRA,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",1,No Quantity,0,,,,0,,402229285,,,4
+H4,2016,2016,2016,2,0,2,Export,276,Germany,DEU,251,France,FRA,,,,,,,,68,"Stone, plaster, cement, asbestos, mica or similar materials; articles thereof",1,No Quantity,0,,,,0,,414832044,,,4
+H4,2014,2014,2014,2,0,2,Export,276,Germany,DEU,251,France,FRA,,,,,,,,69,Ceramic products,1,No Quantity,0,,,,0,,211836895,,,4
+H4,2015,2015,2015,2,0,2,Export,276,Germany,DEU,251,France,FRA,,,,,,,,69,Ceramic products,1,No Quantity,0,,,,0,,184900902,,,4
+H4,2016,2016,2016,2,0,2,Export,276,Germany,DEU,251,France,FRA,,,,,,,,69,Ceramic products,1,No Quantity,0,,,,0,,205344980,,,4
+H4,2014,2014,2014,2,0,2,Export,276,Germany,DEU,251,France,FRA,,,,,,,,70,Glass and glassware,1,No Quantity,0,,,,0,,818261206,,,4
+H4,2015,2015,2015,2,0,2,Export,276,Germany,DEU,251,France,FRA,,,,,,,,70,Glass and glassware,1,No Quantity,0,,,,0,,692541976,,,4
+H4,2016,2016,2016,2,0,2,Export,276,Germany,DEU,251,France,FRA,,,,,,,,70,Glass and glassware,1,No Quantity,0,,,,0,,710834556,,,4
+H4,2014,2014,2014,2,0,2,Export,276,Germany,DEU,251,France,FRA,,,,,,,,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",1,No Quantity,0,,,,0,,933096093,,,4
+H4,2015,2015,2015,2,0,2,Export,276,Germany,DEU,251,France,FRA,,,,,,,,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",1,No Quantity,0,,,,0,,935456726,,,4
+H4,2016,2016,2016,2,0,2,Export,276,Germany,DEU,251,France,FRA,,,,,,,,71,"Natural, cultured pearls; precious, semi-precious stones; precious metals, metals clad with precious metal, and articles thereof; imitation jewellery; coin",1,No Quantity,0,,,,0,,982753874,,,4
+H4,2014,2014,2014,2,0,2,Export,276,Germany,DEU,251,France,FRA,,,,,,,,72,Iron and steel,1,No Quantity,0,,,,0,,3396500668,,,4
+H4,2015,2015,2015,2,0,2,Export,276,Germany,DEU,251,France,FRA,,,,,,,,72,Iron and steel,1,No Quantity,0,,,,0,,2539676978,,,4
+H4,2016,2016,2016,2,0,2,Export,276,Germany,DEU,251,France,FRA,,,,,,,,72,Iron and steel,1,No Quantity,0,,,,0,,2234421584,,,4
+H4,2014,2014,2014,2,0,2,Export,276,Germany,DEU,251,France,FRA,,,,,,,,73,Iron or steel articles,1,No Quantity,0,,,,0,,2647641781,,,4
+H4,2015,2015,2015,2,0,2,Export,276,Germany,DEU,251,France,FRA,,,,,,,,73,Iron or steel articles,1,No Quantity,0,,,,0,,2805619435,,,4
+H4,2016,2016,2016,2,0,2,Export,276,Germany,DEU,251,France,FRA,,,,,,,,73,Iron or steel articles,1,No Quantity,0,,,,0,,2397336843,,,4
+H4,2014,2014,2014,2,0,2,Export,276,Germany,DEU,251,France,FRA,,,,,,,,74,Copper and articles thereof,1,No Quantity,0,,,,0,,1181796698,,,4
+H4,2015,2015,2015,2,0,2,Export,276,Germany,DEU,251,France,FRA,,,,,,,,74,Copper and articles thereof,1,No Quantity,0,,,,0,,930761704,,,4
+H4,2016,2016,2016,2,0,2,Export,276,Germany,DEU,251,France,FRA,,,,,,,,74,Copper and articles thereof,1,No Quantity,0,,,,0,,852592044,,,4
+H4,2014,2014,2014,2,0,2,Export,276,Germany,DEU,251,France,FRA,,,,,,,,75,Nickel and articles thereof,1,No Quantity,0,,,,0,,97497547,,,4
+H4,2015,2015,2015,2,0,2,Export,276,Germany,DEU,251,France,FRA,,,,,,,,75,Nickel and articles thereof,1,No Quantity,0,,,,0,,79503813,,,4
+H4,2016,2016,2016,2,0,2,Export,276,Germany,DEU,251,France,FRA,,,,,,,,75,Nickel and articles thereof,1,No Quantity,0,,,,0,,72113436,,,4
+H4,2014,2014,2014,2,0,2,Export,276,Germany,DEU,251,France,FRA,,,,,,,,76,Aluminium and articles thereof,1,No Quantity,0,,,,0,,1671910120,,,4
+H4,2015,2015,2015,2,0,2,Export,276,Germany,DEU,251,France,FRA,,,,,,,,76,Aluminium and articles thereof,1,No Quantity,0,,,,0,,1488750034,,,4
+H4,2016,2016,2016,2,0,2,Export,276,Germany,DEU,251,France,FRA,,,,,,,,76,Aluminium and articles thereof,1,No Quantity,0,,,,0,,1485548562,,,4
+H4,2014,2014,2014,2,0,2,Export,276,Germany,DEU,251,France,FRA,,,,,,,,78,Lead and articles thereof,1,No Quantity,0,,,,0,,32667420,,,4
+H4,2015,2015,2015,2,0,2,Export,276,Germany,DEU,251,France,FRA,,,,,,,,78,Lead and articles thereof,1,No Quantity,0,,,,0,,22949506,,,4
+H4,2016,2016,2016,2,0,2,Export,276,Germany,DEU,251,France,FRA,,,,,,,,78,Lead and articles thereof,1,No Quantity,0,,,,0,,23293959,,,4
+H4,2014,2014,2014,2,0,2,Export,276,Germany,DEU,251,France,FRA,,,,,,,,79,Zinc and articles thereof,1,No Quantity,0,,,,0,,92243507,,,0
+H4,2015,2015,2015,2,0,2,Export,276,Germany,DEU,251,France,FRA,,,,,,,,79,Zinc and articles thereof,1,No Quantity,0,,,,0,,49322327,,,4
+H4,2016,2016,2016,2,0,2,Export,276,Germany,DEU,251,France,FRA,,,,,,,,79,Zinc and articles thereof,1,No Quantity,0,,,,0,,48331578,,,0
+H4,2014,2014,2014,2,0,2,Export,276,Germany,DEU,251,France,FRA,,,,,,,,80,Tin; articles thereof,1,No Quantity,0,,,,0,,13504023,,,0
+H4,2015,2015,2015,2,0,2,Export,276,Germany,DEU,251,France,FRA,,,,,,,,80,Tin; articles thereof,1,No Quantity,0,,,,0,,8887123,,,4
+H4,2016,2016,2016,2,0,2,Export,276,Germany,DEU,251,France,FRA,,,,,,,,80,Tin; articles thereof,1,No Quantity,0,,,,0,,10761881,,,4
+H4,2014,2014,2014,2,0,2,Export,276,Germany,DEU,251,France,FRA,,,,,,,,81,"Metals; n.e.c., cermets and articles thereof",1,No Quantity,0,,,,0,,270936703,,,4
+H4,2015,2015,2015,2,0,2,Export,276,Germany,DEU,251,France,FRA,,,,,,,,81,"Metals; n.e.c., cermets and articles thereof",1,No Quantity,0,,,,0,,210666658,,,4
+H4,2016,2016,2016,2,0,2,Export,276,Germany,DEU,251,France,FRA,,,,,,,,81,"Metals; n.e.c., cermets and articles thereof",1,No Quantity,0,,,,0,,205847869,,,4
+H4,2014,2014,2014,2,0,2,Export,276,Germany,DEU,251,France,FRA,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",1,No Quantity,0,,,,0,,651561258,,,4
+H4,2015,2015,2015,2,0,2,Export,276,Germany,DEU,251,France,FRA,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",1,No Quantity,0,,,,0,,567857528,,,4
+H4,2016,2016,2016,2,0,2,Export,276,Germany,DEU,251,France,FRA,,,,,,,,82,"Tools, implements, cutlery, spoons and forks, of base metal; parts thereof, of base metal",1,No Quantity,0,,,,0,,605948893,,,4
+H4,2014,2014,2014,2,0,2,Export,276,Germany,DEU,251,France,FRA,,,,,,,,83,Metal; miscellaneous products of base metal,1,No Quantity,0,,,,0,,725176914,,,4
+H4,2015,2015,2015,2,0,2,Export,276,Germany,DEU,251,France,FRA,,,,,,,,83,Metal; miscellaneous products of base metal,1,No Quantity,0,,,,0,,631219538,,,4
+H4,2016,2016,2016,2,0,2,Export,276,Germany,DEU,251,France,FRA,,,,,,,,83,Metal; miscellaneous products of base metal,1,No Quantity,0,,,,0,,644044195,,,4
+H4,2014,2014,2014,2,0,2,Export,276,Germany,DEU,251,France,FRA,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",1,No Quantity,0,,,,0,,18782495557,,,4
+H4,2015,2015,2015,2,0,2,Export,276,Germany,DEU,251,France,FRA,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",1,No Quantity,0,,,,0,,15946804636,,,4
+H4,2016,2016,2016,2,0,2,Export,276,Germany,DEU,251,France,FRA,,,,,,,,84,"Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof",1,No Quantity,0,,,,0,,16201759827,,,4
+H4,2014,2014,2014,2,0,2,Export,276,Germany,DEU,251,France,FRA,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",1,No Quantity,0,,,,0,,10307605298,,,4
+H4,2015,2015,2015,2,0,2,Export,276,Germany,DEU,251,France,FRA,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",1,No Quantity,0,,,,0,,8604412335,,,4
+H4,2016,2016,2016,2,0,2,Export,276,Germany,DEU,251,France,FRA,,,,,,,,85,"Electrical machinery and equipment and parts thereof; sound recorders and reproducers; television image and sound recorders and reproducers, parts and accessories of such articles",1,No Quantity,0,,,,0,,8806748188,,,4
+H4,2014,2014,2014,2,0,2,Export,276,Germany,DEU,251,France,FRA,,,,,,,,86,"Railway, tramway locomotives, rolling-stock and parts thereof; railway or tramway track fixtures and fittings and parts thereof; mechanical (including electro-mechanical) traffic signalling equipment of all kinds",1,No Quantity,0,,,,0,,240672498,,,4
+H4,2015,2015,2015,2,0,2,Export,276,Germany,DEU,251,France,FRA,,,,,,,,86,"Railway, tramway locomotives, rolling-stock and parts thereof; railway or tramway track fixtures and fittings and parts thereof; mechanical (including electro-mechanical) traffic signalling equipment of all kinds",1,No Quantity,0,,,,0,,141079962,,,4
+H4,2016,2016,2016,2,0,2,Export,276,Germany,DEU,251,France,FRA,,,,,,,,86,"Railway, tramway locomotives, rolling-stock and parts thereof; railway or tramway track fixtures and fittings and parts thereof; mechanical (including electro-mechanical) traffic signalling equipment of all kinds",1,No Quantity,0,,,,0,,170293706,,,4
+H4,2014,2014,2014,2,0,2,Export,276,Germany,DEU,251,France,FRA,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",1,No Quantity,0,,,,0,,17525870708,,,4
+H4,2015,2015,2015,2,0,2,Export,276,Germany,DEU,251,France,FRA,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",1,No Quantity,0,,,,0,,16022830638,,,4
+H4,2016,2016,2016,2,0,2,Export,276,Germany,DEU,251,France,FRA,,,,,,,,87,"Vehicles; other than railway or tramway rolling stock, and parts and accessories thereof",1,No Quantity,0,,,,0,,17237856034,,,4
+H4,2014,2014,2014,2,0,2,Export,276,Germany,DEU,251,France,FRA,,,,,,,,88,"Aircraft, spacecraft and parts thereof",1,No Quantity,0,,,,0,,20105393768,,,4
+H4,2015,2015,2015,2,0,2,Export,276,Germany,DEU,251,France,FRA,,,,,,,,88,"Aircraft, spacecraft and parts thereof",1,No Quantity,0,,,,0,,16570044477,,,4
+H4,2016,2016,2016,2,0,2,Export,276,Germany,DEU,251,France,FRA,,,,,,,,88,"Aircraft, spacecraft and parts thereof",1,No Quantity,0,,,,0,,14464859353,,,4
+H4,2014,2014,2014,2,0,2,Export,276,Germany,DEU,251,France,FRA,,,,,,,,89,"Ships, boats and floating structures",1,No Quantity,0,,,,0,,41318651,,,0
+H4,2015,2015,2015,2,0,2,Export,276,Germany,DEU,251,France,FRA,,,,,,,,89,"Ships, boats and floating structures",1,No Quantity,0,,,,0,,44604286,,,4
+H4,2016,2016,2016,2,0,2,Export,276,Germany,DEU,251,France,FRA,,,,,,,,89,"Ships, boats and floating structures",1,No Quantity,0,,,,0,,44206608,,,0
+H4,2014,2014,2014,2,0,2,Export,276,Germany,DEU,251,France,FRA,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",1,No Quantity,0,,,,0,,4323517957,,,4
+H4,2015,2015,2015,2,0,2,Export,276,Germany,DEU,251,France,FRA,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",1,No Quantity,0,,,,0,,3832090241,,,4
+H4,2016,2016,2016,2,0,2,Export,276,Germany,DEU,251,France,FRA,,,,,,,,90,"Optical, photographic, cinematographic, measuring, checking, medical or surgical instruments and apparatus; parts and accessories",1,No Quantity,0,,,,0,,3991765929,,,4
+H4,2014,2014,2014,2,0,2,Export,276,Germany,DEU,251,France,FRA,,,,,,,,91,Clocks and watches and parts thereof,1,No Quantity,0,,,,0,,496392362,,,4
+H4,2015,2015,2015,2,0,2,Export,276,Germany,DEU,251,France,FRA,,,,,,,,91,Clocks and watches and parts thereof,1,No Quantity,0,,,,0,,518110267,,,4
+H4,2016,2016,2016,2,0,2,Export,276,Germany,DEU,251,France,FRA,,,,,,,,91,Clocks and watches and parts thereof,1,No Quantity,0,,,,0,,357909369,,,4
+H4,2014,2014,2014,2,0,2,Export,276,Germany,DEU,251,France,FRA,,,,,,,,92,Musical instruments; parts and accessories of such articles,1,No Quantity,0,,,,0,,87140580,,,4
+H4,2015,2015,2015,2,0,2,Export,276,Germany,DEU,251,France,FRA,,,,,,,,92,Musical instruments; parts and accessories of such articles,1,No Quantity,0,,,,0,,68928464,,,4
+H4,2016,2016,2016,2,0,2,Export,276,Germany,DEU,251,France,FRA,,,,,,,,92,Musical instruments; parts and accessories of such articles,1,No Quantity,0,,,,0,,60021258,,,4
+H4,2014,2014,2014,2,0,2,Export,276,Germany,DEU,251,France,FRA,,,,,,,,93,Arms and ammunition; parts and accessories thereof,1,No Quantity,0,,,,0,,49472022,,,4
+H4,2015,2015,2015,2,0,2,Export,276,Germany,DEU,251,France,FRA,,,,,,,,93,Arms and ammunition; parts and accessories thereof,1,No Quantity,0,,,,0,,45057602,,,4
+H4,2016,2016,2016,2,0,2,Export,276,Germany,DEU,251,France,FRA,,,,,,,,93,Arms and ammunition; parts and accessories thereof,1,No Quantity,0,,,,0,,45215997,,,4
+H4,2014,2014,2014,2,0,2,Export,276,Germany,DEU,251,France,FRA,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.c.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",1,No Quantity,0,,,,0,,2203688595,,,4
+H4,2015,2015,2015,2,0,2,Export,276,Germany,DEU,251,France,FRA,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.c.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",1,No Quantity,0,,,,0,,1903035794,,,4
+H4,2016,2016,2016,2,0,2,Export,276,Germany,DEU,251,France,FRA,,,,,,,,94,"Furniture; bedding, mattresses, mattress supports, cushions and similar stuffed furnishings; lamps and lighting fittings, n.e.c.; illuminated signs, illuminated name-plates and the like; prefabricated buildings",1,No Quantity,0,,,,0,,2045949575,,,4
+H4,2014,2014,2014,2,0,2,Export,276,Germany,DEU,251,France,FRA,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",1,No Quantity,0,,,,0,,655290990,,,4
+H4,2015,2015,2015,2,0,2,Export,276,Germany,DEU,251,France,FRA,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",1,No Quantity,0,,,,0,,598124684,,,4
+H4,2016,2016,2016,2,0,2,Export,276,Germany,DEU,251,France,FRA,,,,,,,,95,"Toys, games and sports requisites; parts and accessories thereof",1,No Quantity,0,,,,0,,495733742,,,4
+H4,2014,2014,2014,2,0,2,Export,276,Germany,DEU,251,France,FRA,,,,,,,,96,Miscellaneous manufactured articles,1,No Quantity,0,,,,0,,665831315,,,4
+H4,2015,2015,2015,2,0,2,Export,276,Germany,DEU,251,France,FRA,,,,,,,,96,Miscellaneous manufactured articles,1,No Quantity,0,,,,0,,561147011,,,4
+H4,2016,2016,2016,2,0,2,Export,276,Germany,DEU,251,France,FRA,,,,,,,,96,Miscellaneous manufactured articles,1,No Quantity,0,,,,0,,586740970,,,4
+H4,2014,2014,2014,2,0,2,Export,276,Germany,DEU,251,France,FRA,,,,,,,,97,Works of art; collectors' pieces and antiques,1,No Quantity,0,,,,0,,25618500,,,4
+H4,2015,2015,2015,2,0,2,Export,276,Germany,DEU,251,France,FRA,,,,,,,,97,Works of art; collectors' pieces and antiques,1,No Quantity,0,,,,0,,17261728,,,4
+H4,2016,2016,2016,2,0,2,Export,276,Germany,DEU,251,France,FRA,,,,,,,,97,Works of art; collectors' pieces and antiques,1,No Quantity,0,,,,0,,21482984,,,4
+H4,2014,2014,2014,2,0,2,Export,276,Germany,DEU,251,France,FRA,,,,,,,,99,Commodities not specified according to kind,1,No Quantity,0,,,,0,,3843449726,,,0
+H4,2015,2015,2015,2,0,2,Export,276,Germany,DEU,251,France,FRA,,,,,,,,99,Commodities not specified according to kind,1,No Quantity,0,,,,0,,3128858134,,,0
+H4,2016,2016,2016,2,0,2,Export,276,Germany,DEU,251,France,FRA,,,,,,,,99,Commodities not specified according to kind,1,No Quantity,0,,,,0,,2571114927,,,0
